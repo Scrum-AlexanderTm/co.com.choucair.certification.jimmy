@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Verificar login session" skipped="0" tests="1" time="23.99" timestamp="2023-01-30 04:11:47"><testcase name="Verificar correcto inicio sesion"><failure message="&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.choucair.certification.prueba.pom.step.TasksAction.verificar(TasksAction.java:20)&#13;
+co.com.choucair.certification.prueba.pom.definition.loginDefinition.yoVeoLaPaginaPrincipal(loginDefinition.java:30)&#13;
+✽.Yo veo la pagina principal(src/test/resources/features/prueba.feature:9)&#13;
+</system-err></testcase></testsuite>
